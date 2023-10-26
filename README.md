@@ -6,3 +6,5 @@ Formik is a library that helps with the 3 most annoying parts:
 2. Validation and error messages
 3. Handling form submission
 By colocating all of the above in one place, Formik will keep things organized--making testing, refactoring, and reasoning about your forms a breeze.
+
+Yup: Yup is a JavaScript object schema validator. While it has many powerful features, most importantly it helps create custom validation rules.
